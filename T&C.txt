@@ -13,24 +13,16 @@
    - Users are responsible for thoroughly testing any modifications and ensuring compatibility with their DayZ server setup.
 
 3. **Support and Corrections:**
-   - The owner does not provide free corrections for errors or issues resulting from modifications made to the server pack.
+   - The owner does not provide corrections for errors or issues resulting from modifications made to the server pack.
    - Users may contact the owner for support or corrections, but such assistance may be subject to additional fees or terms to be negotiated separately.
 
 4. **Intellectual Property:**
    - No claims of creation are permitted. Users may not assert ownership or authorship of any part of this file pack or its contents.
-   - All intellectual property rights, including but not limited to copyrights and trademarks, remain with the owner of the custom file pack.
 
-5. **Termination:**
-   - The license granted herein may be terminated by the owner at any time without notice. Upon termination, users must cease all use of the file pack and delete all copies thereof.
-
-6. **Acceptance of Terms:**
+5. **Acceptance of Terms:**
    - By using this custom economy DayZ server file pack, you acknowledge that you have read, understood, and agree to be bound by these terms of use.
 
-7. **Governing Law and Jurisdiction:**
-   - These terms of use shall be governed by and construed in accordance with the laws of England and Wales.
-   - Any disputes arising from these terms shall be subject to the exclusive jurisdiction of the courts of England and Wales.
-
-8. **Contact Information:**
+6. **Contact Information:**
    - For inquiries regarding permission, support, or any other matters related to this file pack, please contact Tbag1990 at Custom Dayz Services or khaoskillfeed.com.
 
-By using this custom economy DayZ server file pack, you agree to abide by these terms of use. Failure to comply with these terms may result in legal action or other remedies as deemed appropriate by the owner.
+By using this custom economy DayZ server file pack, you agree to abide by these terms of use.
