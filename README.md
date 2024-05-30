@@ -1,7 +1,8 @@
-# Custom Server Pack for DayZ
+# Custom Server Pack for DayZ | 1.25 |
 
 
 Transform your DayZ server experience with our meticulously crafted XML configuration, designed to revolutionize loot management.
+Simple Plug And Play Server Pack ( with everything you need )
 
 By assigning specific usage tags to each event and area,
 such as "ContaminatedArea," "Riffy," "TrainCrash," and more,
@@ -38,7 +39,7 @@ gameplay balance, and overall player engagement for your DayZ server. It's a tes
 ## Usage
 
 To use the Main Server Pack, simply download the files and integrate them into your DayZ server. Make sure to follow the setup instructions provided in the repository.
-Download `Custom Econemy set up Console.rar` unpack the `.Zip / .rar` folder to access full server file pack
+Download `Custom Economy Server Pack.rar` unpack the `.Zip / .rar` folder to access full server file pack
 make sure to upload all the server files provided inside the pack in `dayzOffline.chernarusplus`
 before making any changes make sure to read the `CUSTOM_EC_EVENT_LOOT_INDEX` located in the `README!!` folderto get to grips with the event loot.
 
