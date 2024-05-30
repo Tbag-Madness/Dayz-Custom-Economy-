@@ -1,0 +1,208 @@
+		<!--/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/ \CUSTOM EC SETUP /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\-->
+		
+		<!--
+		This removes the need for deloot="1" to spawn loot at dynamic events
+		with this set up you will have full control over each events loot exactly
+		you can choose to spawn a item at a helli crash and also at a convoy or set area of the map,
+		This also seperates Riffy and Pavlovo contaminated zones so you can define diffrent loot to each.
+		-->
+		
+		<!-- /\/\/\/\/\ NEW USAGE TAGS DISCRIPTIONS /\/\/\/\/\ -->
+		
+		<!-- PAVLOVO [ContaminatedArea] -->
+		<usage name="ContaminatedArea"/>
+		
+		<!-- RIFFY [ContaminatedArea] -->
+		<usage name="Riffy"/>
+		
+		<!-- Train crash events all millitary parts of train -->
+		<usage name="TrainCrash" />
+		
+		<!-- Helli Crash Events -->
+		<usage name="Crashsite" />
+		
+		<!-- Convoy Events -->
+		<usage name="Convoy" />
+		
+		<!-- Corrected Amusement Park Objects usage tag to use only Lunapark -->
+		<usage name="Lunapark"/>
+		<group name="Land_Lunapark_Shooting_Gallery" lootmax="4">
+		<group name="Land_Lunapark_Ferris_wheel" lootmax="3">
+		<group name="Land_Lunapark_Carousel_Swan" lootmax="3">
+		<group name="Land_Lunapark_Autodrome" lootmax="3">
+		
+		
+		<!-- /\/\/\/\/\ EVENT LOOT INDEX /\/\/\/\/\ -->
+		
+		<!-- BELOW IS A FULL INDEX OF EACH LOOT ITEM THAT WILL SPAWN AT EACH EVENT TYPES -->
+		<!-- TRAIN CRASH EVENTS CIVILLIAN TYPE ONLY WILL SPAWN VANLLIA LOOT TAGS Village Industrail etc -->
+		
+		
+		<usage name="Crashsite" />
+	    AmmoBox_308WinTracer_20Rnd
+		AmmoBox_308Win_20Rnd
+		AmmoBox_545x39Tracer_20Rnd
+		AmmoBox_545x39_20Rnd
+		AmmoBox_556x45Tracer_20Rnd
+		AmmoBox_556x45_20Rnd
+		AmmoBox_762x39Tracer_20Rnd
+		AmmoBox_762x39_20Rnd
+		AmmoBox_762x54Tracer_20Rnd
+		AmmoBox_762x54_20Rnd
+		Ammo_762x39Tracer
+		Ammo_545x39Tracer
+		Ammo_556x45
+		Ammo_556x45Tracer
+		Ammo_308Win
+		Ammo_308WinTracer
+		Ammo_40mm_Explosive
+		M67Grenade
+		FlashGrenade
+		ASVAL
+		M14
+		SVD
+		SV98
+		M4A1_Black
+		M4A1_Green
+		Mag_SV98_10Rnd
+		Mag_M14_10Rnd
+		Mag_M14_20Rnd
+		Mag_STANAG_60Rnd
+		Mag_SVD_10Rnd
+		Mag_VSS_10Rnd
+		BallisticHelmet_BDU
+		BallisticHelmet_Desert
+		BallisticHelmet_Woodland
+		BDUJacket
+		BDUPants
+		PlateCarrierVest_Green
+		BalaclavaMask_Blackskull
+		BalaclavaMask_Green
+		AliceBag_Black
+		AviatorGlasses
+		
+		
+		
+		<usage name="TrainCrash" />
+		ClaymoreMine
+		AmmoBox_308WinTracer_20Rnd
+		AmmoBox_308Win_20Rnd
+		AmmoBox_545x39Tracer_20Rnd
+		AmmoBox_545x39_20Rnd
+		AmmoBox_556x45Tracer_20Rnd
+		AmmoBox_556x45_20Rnd
+		AmmoBox_762x39Tracer_20Rnd
+		AmmoBox_762x39_20Rnd
+		Ammo_40mm_Explosive
+		Ammo_556x45
+		AugShort
+		Mosin9130_Black
+		Crossbow_Black
+		Colt1911
+		Cleaver
+		Mag_Aug_30Rnd
+		BallisticHelmet_Desert
+		AliceBag_Black
+		PaddedGloves_Beige
+		PaddedGloves_Threat
+		HighCapacityVest_Olive
+		HipPack_Green
+		CombatBoots_Beige
+		CombatBoots_Black
+		DarkMotoHelmet_YellowScarred
+		UKAssVest_Black
+		UKAssVest_Camo
+		
+		<usage name="Convoy" />
+		AmmoBox
+		AmmoBox_308WinTracer_20Rnd
+		AmmoBox_308Win_20Rnd
+		AmmoBox_545x39Tracer_20Rnd
+		AmmoBox_545x39_20Rnd
+		AmmoBox_556x45Tracer_20Rnd
+		AmmoBox_556x45_20Rnd
+		AmmoBox_762x39Tracer_20Rnd
+		AmmoBox_762x39_20Rnd
+		AmmoBox_762x54Tracer_20Rnd
+		AmmoBox_762x54_20Rnd
+		Ammo_308Win
+		Ammo_308WinTracer
+		Ammo_40mm_Chemgas
+		Ammo_40mm_Explosive
+		Ammo_545x39Tracer
+		Ammo_556x45
+		Ammo_556x45Tracer
+		AugShort
+		AKM
+		Mag_AKM_Drum75Rnd
+		Mag_CMAG_40Rnd
+		BallisticHelmet_BDU
+		BallisticHelmet_Desert
+		BallisticHelmet_Woodland
+		AliceBag_Camo
+		BalaclavaMask_Blackskull
+		BalaclavaMask_Green
+		GhillieAtt_Mossy
+		GhillieBushrag_Mossy
+		GhillieHood_Mossy
+		GhillieSuit_Mossy
+		GhillieTop_Woodland
+		PlateCarrierVest_Camo
+		TacticalGoggles
+		TortillaBag
+		FlashGrenade
+		UKAssVest_Khaki
+		UKAssVest_Olive
+		CannabisSeedsPack
+		
+		
+		<usage name="ContaminatedArea"/>
+		M4_Suppressor
+		AK_Suppressor
+		Ammo_40mm_Chemgas
+		AntiChemInjector
+		Aug
+		FAL
+		SV98
+		Mag_SV98_10Rnd
+		Mag_AKM_Drum75Rnd
+		Mag_FAL_20Rnd
+		Mag_STANAG_60Rnd
+		Mag_VSS_10Rnd
+		VSS
+		M65Jacket_Black
+		M79
+		MilitaryBoots_Redpunk
+		MimeMask_Female
+		MimeMask_Male
+		PlateCarrierHolster_Black
+		PlateCarrierPouches_Black
+		PlateCarrierVest_Black
+		SVD
+		GorkaHelmet_Black
+		Grenade_ChemGas
+		GasMask_Filter
+		
+		
+		<usage name="Riffy"/>
+		Ammo_40mm_Chemgas
+		Aug
+		FAL
+		VSS
+		M79
+		Grenade_ChemGas
+		JungleBoots_Olive
+		KazuarOptic
+		StarlightOptic
+		M4_Suppressor
+		Mag_AKM_Drum75Rnd
+		Mag_FAL_20Rnd
+		Mag_STANAG_60Rnd
+		Mag_VSS_10Rnd
+		AK_Suppressor
+		NBCBootsYellow
+		NBCGlovesYellow
+		NBCHoodYellow
+		NBCJacketYellow
+		NBCPantsYellow
+		GasMask_Filter
