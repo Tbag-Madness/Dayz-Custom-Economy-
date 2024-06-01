@@ -31,6 +31,8 @@
 		<group name="Land_Lunapark_Carousel_Swan" lootmax="3">
 		<group name="Land_Lunapark_Autodrome" lootmax="3">
 		
+		<!-- All Stores & News Stands -->
+		<usage name="Store"/>
 		
 		<!-- /\/\/\/\/\ EVENT LOOT INDEX /\/\/\/\/\ -->
 		
@@ -206,3 +208,60 @@
 		NBCJacketYellow
 		NBCPantsYellow
 		GasMask_Filter
+		
+		
+		<usage name="Store"/>
+		Engraved1911
+		FishingRod
+		Fabric
+		ElectronicRepairKit
+		LeatherSewingKit
+		SewingKit
+		KitchenTimer
+		LargeGasCanister
+		CanOpener
+		CatFoodCan
+		Chips
+		DogFoodCan
+		PeachesCan
+		PorkCan
+		SardinesCan
+		SodaCan_Cola
+		SodaCan_Fronta
+		SodaCan_Kvass
+		SodaCan_Pipsi
+		SodaCan_Spite
+		SpaghettiCan
+		TunaCan
+		UnknownFoodCan
+		Zagorky
+		ZagorkyChocolate
+		ZagorkyPeanuts
+		Marmalade
+		Honey
+		SaltySticks
+		Pate
+		BrisketSpread
+		Tomato
+		GreenBellPepper
+		PotatoSeed
+		Flag_Bohemia
+		Flag_CHEL
+		Flag_CMC
+		Flag_Cannibals
+		Flag_Chedaki
+		Flag_Chernarus
+		Flag_DayZ
+		Flag_HunterZ
+		Flag_NAPA
+		Flag_Pirates
+		Flag_RSTA
+		Flag_Refuge
+		Flag_Rooster
+		Flag_Snake
+		Flag_TEC
+		Flag_UEC
+		Flag_Wolf
+		Flag_Zenit
+		
+		
