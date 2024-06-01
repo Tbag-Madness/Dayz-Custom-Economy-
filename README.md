@@ -49,11 +49,14 @@ Download `Custom Economy Server Pack.rar` unpack the `.Zip / .rar` folder to acc
 
 Make sure to upload all the server files provided inside the pack in `dayzOffline.chernarusplus` to your dayz server.
 
-Make syre to unpack the folder `dayzOffline.chernarusplus` inside this you will see all the server files ready for upload.
+Make sure to unpack the folder `dayzOffline.chernarusplus` inside this you will see all the server files ready for upload.
+
 You can use FTP to upload the files to you server or simply via your server dashboard depending on server host via file upload button.
+
 Make sure you upload all files to the correct locations on your server and be sure to upload them all do not miss or skip any.
 
 Before making any changes make sure to read the `CUSTOM_EC_EVENT_LOOT_INDEX` located in the `README!!` folderto get to grips with the event loot.
+
 If you dont have a file unziper win rar is free to use
 [WIN RAR](https://www.win-rar.com/)
 
