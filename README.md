@@ -49,6 +49,9 @@ Make sure to upload all the server files provided inside the pack in `dayzOfflin
 
 Before making any changes make sure to read the `CUSTOM_EC_EVENT_LOOT_INDEX` located in the `README!!` folderto get to grips with the event loot.
 
+If you dont have a file unziper win rar is free to use
+[WIN RAR](https://www.win-rar.com/)
+
 ## Testing
 
 The Main Server Pack has been extensively tested over the course of a month to ensure seamless functionality and balanced gameplay.
