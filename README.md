@@ -39,12 +39,15 @@ gameplay balance, and overall player engagement for your DayZ server. It's a tes
 ## Usage
 
 To use the Main Server Pack, simply download the files and integrate them into your DayZ server.
-
 Make sure to follow the setup instructions provided in the repository.
-Download `Custom Economy Server Pack.rar` unpack the `.Zip / .rar` folder to access full server file pack
-**How?** press on `<code>` top right of the reposetory then select `download zip`
-make sure to upload all the server files provided inside the pack in `dayzOffline.chernarusplus`
-before making any changes make sure to read the `CUSTOM_EC_EVENT_LOOT_INDEX` located in the `README!!` folderto get to grips with the event loot.
+
+Download `Custom Economy Server Pack.rar` unpack the `.Zip / .rar` folder to access full server file pack.
+
+**How?** press on `<code>` top right of the reposetory then select `download zip`.
+
+Make sure to upload all the server files provided inside the pack in `dayzOffline.chernarusplus`.
+
+Before making any changes make sure to read the `CUSTOM_EC_EVENT_LOOT_INDEX` located in the `README!!` folderto get to grips with the event loot.
 
 ## Testing
 
