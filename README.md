@@ -35,6 +35,8 @@ gameplay balance, and overall player engagement for your DayZ server. It's a tes
 - **Enhanced Zombie Drops:** Zombies drop more food and better items based on type and location.
 - **Separate Loot Pools:** Riffy and Pavlovo have their own unique loot pools.
 - **Hidden Items:** integrated into the economy.
+- **Build Anywhere:** build anywhere set up ready to go.
+- **Unlimited Stamina:** Unlimited stamina (just running / sprint).
 
 ## Usage
 
@@ -45,10 +47,13 @@ Download `Custom Economy Server Pack.rar` unpack the `.Zip / .rar` folder to acc
 
 **How?** press on `<code>` top right of the reposetory then select `download zip`.
 
-Make sure to upload all the server files provided inside the pack in `dayzOffline.chernarusplus`.
+Make sure to upload all the server files provided inside the pack in `dayzOffline.chernarusplus` to your dayz server.
+
+Make syre to unpack the folder `dayzOffline.chernarusplus` inside this you will see all the server files ready for upload.
+You can use FTP to upload the files to you server or simply via your server dashboard depending on server host via file upload button.
+Make sure you upload all files to the correct locations on your server and be sure to upload them all do not miss or skip any.
 
 Before making any changes make sure to read the `CUSTOM_EC_EVENT_LOOT_INDEX` located in the `README!!` folderto get to grips with the event loot.
-
 If you dont have a file unziper win rar is free to use
 [WIN RAR](https://www.win-rar.com/)
 
@@ -63,6 +68,12 @@ We welcome contributions to the Main Server Pack! If you have suggestions, impro
 ## Credits
 
 - Developed by tbag1990 Custom DayZ Services.
+
+
+## Versions
+- current version | 1.25
+- All versions will be kept up to date with all future updates.
+- Livonia Version Pending.
 
 ## License
 
