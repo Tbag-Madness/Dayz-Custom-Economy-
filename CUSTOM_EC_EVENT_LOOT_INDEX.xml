@@ -34,6 +34,9 @@
 		<!-- All Stores & News Stands -->
 		<usage name="Store"/>
 		
+		<!-- Catles now only use historical not hunting -->
+		<usage name="Historical" />
+		
 		<!-- /\/\/\/\/\ EVENT LOOT INDEX /\/\/\/\/\ -->
 		
 		<!-- BELOW IS A FULL INDEX OF EACH LOOT ITEM THAT WILL SPAWN AT EACH EVENT TYPES -->
@@ -41,7 +44,7 @@
 		
 		
 		<usage name="Crashsite" />
-	        AmmoBox_308WinTracer_20Rnd
+	    AmmoBox_308WinTracer_20Rnd
 		AmmoBox_308Win_20Rnd
 		AmmoBox_545x39Tracer_20Rnd
 		AmmoBox_545x39_20Rnd
@@ -263,5 +266,16 @@
 		Flag_UEC
 		Flag_Wolf
 		Flag_Zenit
+		
+		<usage name="Historical" />
+		Chainmail
+		Chainmail_Coif
+		Chainmail_Leggings
+		Chestplate
+		GreatHelm
+		Mace
+		MedievalBoots
+		Sword
+		
 		
 		
