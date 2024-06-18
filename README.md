@@ -28,6 +28,7 @@ gameplay balance, and overall player engagement for your DayZ server. It's a tes
 - **Custom Event Separation:** Each event is tagged for precise loot control.
 - **Pristine Loot Spawns:** Enjoy balanced and fair loot distribution.
 - **Fully Built Cars:** Cars come fully equipped with spare parts and kits.
+- **Fully Built Trucks:** Trucks come fully equipped with full build kits.
 - **Weapons Ready:** All weapons spawn fully attached and ready for use.
 - **Maxed Out Supplies:** Meds, water, and gas spawn full.
 - **Colorful Weapons:** Discover weapons in a variety of colors.
