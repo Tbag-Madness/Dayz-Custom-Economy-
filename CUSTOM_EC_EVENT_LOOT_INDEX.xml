@@ -41,33 +41,33 @@
 		
 		<!-- ALL UASAGE TAGS DEFINITIONS -->
 		<usage name="ContaminatedArea"/>	<!-- Contaminated area loot -->
-        <usage name="Riffy"/>				<!-- Riffy contaminated loot -->
-        <usage name="TrainCrash"/>			<!-- Train crash loot -->
-        <usage name="Crashsite"/>			<!-- Heli Crash loot -->
-        <usage name="Convoy"/>				<!-- Convoy loot -->
-        <usage name="Lunapark"/>			<!-- Lunapark loot -->
-        <usage name="Store"/>				<!-- Store loot -->
-        <usage name="Historical"/>			<!-- Historical loot -->
-        <usage name="Military"/>			<!-- Military loot -->
-        <usage name="Police"/>				<!-- Police loot -->
-        <usage name="Medic"/>				<!-- Medical loot -->
-        <usage name="Firefighter"/>			<!-- Firefighter loot -->
-        <usage name="Industrial"/>			<!-- Industrial loot -->
-        <usage name="Farm"/>				<!-- Farm loot -->
-        <usage name="Coast"/>				<!-- Coastal loot -->
-        <usage name="Town"/>				<!-- Town loot -->
-        <usage name="Village"/>				<!-- Village loot -->
-        <usage name="Hunting"/>				<!-- Hunting loot -->
-        <usage name="Office"/>				<!-- Office loot -->
-        <usage name="School"/>				<!-- School loot -->
-        <usage name="Prison"/>				<!-- Prison loot -->
-        <usage name="SeasonalEvent"/>		<!-- Seasonal event loot -->
+		<usage name="Riffy"/>				<!-- Riffy contaminated loot -->
+		<usage name="TrainCrash"/>			<!-- Train crash loot -->
+		<usage name="Crashsite"/>			<!-- Heli Crash loot -->
+		<usage name="Convoy"/>				<!-- Convoy loot -->
+		<usage name="Lunapark"/>			<!-- Lunapark loot -->
+		<usage name="Store"/>				<!-- Store loot -->
+		<usage name="Historical"/>			<!-- Historical loot -->
+		<usage name="Military"/>			<!-- Military loot -->
+		<usage name="Police"/>				<!-- Police loot -->
+		<usage name="Medic"/>				<!-- Medical loot -->
+		<usage name="Firefighter"/>			<!-- Firefighter loot -->
+		<usage name="Industrial"/>			<!-- Industrial loot -->
+		<usage name="Farm"/>				<!-- Farm loot -->
+		<usage name="Coast"/>				<!-- Coastal loot -->
+		<usage name="Town"/>				<!-- Town loot -->
+		<usage name="Village"/>				<!-- Village loot -->
+		<usage name="Hunting"/>				<!-- Hunting loot -->
+		<usage name="Office"/>				<!-- Office loot -->
+		<usage name="School"/>				<!-- School loot -->
+		<usage name="Prison"/>				<!-- Prison loot -->
+		<usage name="SeasonalEvent"/>		<!-- Seasonal event loot -->
 		
 		<!-- ALL TIER DEFINITIONS -->
-        <value name="Tier1"/> <!-- Coastal -->
-        <value name="Tier2"/> <!-- Midlands -->
-        <value name="Tier3"/> <!-- Major military -->
-        <value name="Tier4"/> <!-- Tisy -->
+		<value name="Tier1"/> <!-- Coastal -->
+		<value name="Tier2"/> <!-- Midlands -->
+		<value name="Tier3"/> <!-- Major military -->
+		<value name="Tier4"/> <!-- Tisy -->
 		
 		
 		
