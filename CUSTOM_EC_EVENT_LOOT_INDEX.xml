@@ -39,8 +39,8 @@
 		
 		
 		
-	<!-- ALL UASAGE TAGS DEFINITIONS -->
-        <usage name="ContaminatedArea"/>	        <!-- Contaminated area loot -->
+		<!-- ALL UASAGE TAGS DEFINITIONS -->
+		<usage name="ContaminatedArea"/>	<!-- Contaminated area loot -->
         <usage name="Riffy"/>				<!-- Riffy contaminated loot -->
         <usage name="TrainCrash"/>			<!-- Train crash loot -->
         <usage name="Crashsite"/>			<!-- Heli Crash loot -->
@@ -61,13 +61,15 @@
         <usage name="Office"/>				<!-- Office loot -->
         <usage name="School"/>				<!-- School loot -->
         <usage name="Prison"/>				<!-- Prison loot -->
-        <usage name="SeasonalEvent"/>		        <!-- Seasonal event loot -->
+        <usage name="SeasonalEvent"/>		<!-- Seasonal event loot -->
 		
-	<!-- ALL TIER DEFINITIONS -->
+		<!-- ALL TIER DEFINITIONS -->
         <value name="Tier1"/> <!-- Coastal -->
         <value name="Tier2"/> <!-- Midlands -->
         <value name="Tier3"/> <!-- Major military -->
         <value name="Tier4"/> <!-- Tisy -->
+		
+		
 		
 		
 		
@@ -119,6 +121,10 @@
 		BalaclavaMask_Green
 		AliceBag_Black
 		AviatorGlasses
+		Shemag_Brown
+		Shemag_Green
+		Shemag_Red
+		Shemag_White
 		
 		
 		
@@ -153,6 +159,8 @@
 		DarkMotoHelmet_YellowScarred
 		UKAssVest_Black
 		UKAssVest_Camo
+		BalaclavaMask_Pig
+		BalaclavaMask_Chain
 		
 		<usage name="Convoy" />
 		AmmoBox
@@ -180,6 +188,7 @@
 		BallisticHelmet_BDU
 		BallisticHelmet_Desert
 		BallisticHelmet_Woodland
+		BalaclavaMask_BDU
 		AliceBag_Camo
 		BalaclavaMask_Blackskull
 		BalaclavaMask_Green
@@ -273,6 +282,7 @@
 		SpaghettiCan
 		TunaCan
 		UnknownFoodCan
+		CrabCan
 		Zagorky
 		ZagorkyChocolate
 		ZagorkyPeanuts
