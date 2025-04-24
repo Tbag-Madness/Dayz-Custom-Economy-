@@ -1,4 +1,4 @@
-# Custom Server Pack for DayZ | 1.26 |
+# Custom Server Pack for DayZ | 1.27 |
 
 
 Transform your DayZ server experience with our meticulously crafted XML configuration, designed to revolutionize loot management.
@@ -37,6 +37,7 @@ gameplay balance, and overall player engagement for your DayZ server. It's a tes
 - **Enhanced Zombie Drops:** Zombies drop more food and better items based on type and location.
 - **Separate Loot Pools:** Riffy and Pavlovo have their own unique loot pools.
 - **Hidden Items:** integrated into the economy.
+- **Locked Shipping Containers:** Spawn around the coast at all docks.
 - **Build Anywhere:** build anywhere set up ready to go.
 - **Unlimited Stamina:** Unlimited stamina (just running / sprint).
 
